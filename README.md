@@ -1,7 +1,7 @@
 # spotify_clone
 Welcome to the Spotify Clone! This project is a web-based static music streaming application inspired by Spotify, built using HTML and CSS. It mimics the user interface of Spotify, providing a responsive layout for music lovers.
 
-Features
+Features.
 
 Responsive Design: Optimized for both desktop and mobile devices.
 Navigation Bar: Includes links to Home, Search, and Library pages.
